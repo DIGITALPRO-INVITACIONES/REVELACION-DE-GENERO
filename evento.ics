@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Digital Pro//Henry Lizeth//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:henry-lizeth-revelacion-20261018@digitalpro
+DTSTAMP:20261003T210000Z
+DTSTART:20261018T190000Z
+SUMMARY:Revelación de género - Henry y Lizeth
+LOCATION:Pasaje J. Rivero Torrez entre C. R. Rivero Torrez y Av. General Galindo
+DESCRIPTION:Ven con polera blanca. Confirmaciones y dudas: +59167408598.
+GEO:-17.3794651;-66.1416168
+END:VEVENT
+END:VCALENDAR
